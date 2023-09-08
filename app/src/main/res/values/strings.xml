@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">User Room DataBase</string>
+    <string name="name">Name</string>
+    <string name="e_mail">E-Mail</string>
+</resources>
